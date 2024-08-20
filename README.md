@@ -1,5 +1,6 @@
 
-# EternalVision-AI: ♾️Mastering the Art of Computer Vision♾️
+
+# EternalVision-AI ♾️: Mastering the Art of Computer Vision
 
 Welcome to the GitHub profile of **EternalVision-AI**, an expert in the vast domain of computer vision. Specializing in advanced technologies like object detection, tracking, recognition systems, and OCR, **EternalVision-AI** is your trusted source for innovative solutions in sports analysis, casino tracking, license plate recognition (LPR), and beyond.
 
@@ -45,36 +46,22 @@ EternalVision-AI has contributed to a diverse range of projects, both public and
 - **[Model_AutoDetection](https://github.com/EternalVision-AI/Model_AutoDetection)**  
   Automate the detection of various objects using pre-trained models.
   
-### Private Repositories
 
-- **Blackjack_Tracking_System**  
-  A sophisticated system for tracking blackjack games in casinos.
-  
-- **Gesture_Recognition_Control**  
-  Cutting-edge gesture recognition for intuitive human-computer interaction.
-  
-- **Volleyball-Tracking-Hub**  
-  A comprehensive system for tracking players and the ball in volleyball matches.
-  
-- **Chat-Bot-Using-VertexAI**  
-  An intelligent chatbot built using Google's Vertex AI.
 
 
 ---
-
 ## Mission
 
-**EternalVision-AI** is driven by the mission to push the boundaries of what computer vision can achieve. Whether it's developing real-time systems for sports analysis, creating robust OCR solutions, or innovating in the casino tracking space, EternalVision-AI takes on each challenge with a commitment to excellence and a relentless pursuit of knowledge.
+**EternalVision-AI** is driven by the mission to push the boundaries of what computer vision can achieve. Whether it's developing real-time systems for sports analysis, creating robust OCR solutions, or innovating in the casino tracking space, **EternalVision-AI** takes on each challenge with a commitment to excellence and a relentless pursuit of knowledge.
 
 ---
 
 ## Get in Touch
 
 For collaborations, inquiries, or to learn more about how EternalVision-AI can contribute to your project, feel free to reach out. 
-eternalvision.ai@gmail.com
+**eternalvision.ai@gmail.com**
 Let's make the future of computer vision together!
 
 ---
 
-**EternalVision-AI**  
-_Challenge Accepted. Vision Perfected._
+
