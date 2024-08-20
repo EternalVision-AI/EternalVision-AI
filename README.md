@@ -1,6 +1,6 @@
 
 
-# EternalVision-AI ♾️: Mastering the Art of Computer Vision
+# EternalVision-AI: ♾️ Mastering the Art of Computer Vision ♾️
 
 Welcome to the GitHub profile of **EternalVision-AI**, an expert in the vast domain of computer vision. Specializing in advanced technologies like object detection, tracking, recognition systems, and OCR, **EternalVision-AI** is your trusted source for innovative solutions in sports analysis, casino tracking, license plate recognition (LPR), and beyond.
 
@@ -14,7 +14,7 @@ Welcome to the GitHub profile of **EternalVision-AI**, an expert in the vast dom
 - **Sports Analysis**: Automated systems for analyzing sports events, including player and ball tracking.
 - **Casino Tracking**: Sophisticated techniques for monitoring casino activities.
 - **License Plate Recognition (LPR)**: Accurate and efficient solutions for recognizing vehicle license plates.
-- **Optical Character Recognition (OCR)**: Expertise in PaddleOCR, Tesseract, Google Vision API, and AWS Textract for converting images to text.
+- **Optical Character Recognition (OCR)**: Expertise in PaddleOCR, Tesseract, Google Vision API, and AWS Textract.
 - **Optical Mark Recognition (OMR)**: Custom solutions for detecting and analyzing marked answers in forms and surveys.
 
 ---
@@ -60,7 +60,6 @@ EternalVision-AI has contributed to a diverse range of projects, both public and
 
 For collaborations, inquiries, or to learn more about how EternalVision-AI can contribute to your project, feel free to reach out. 
 **eternalvision.ai@gmail.com**
-Let's make the future of computer vision together!
 
 ---
 
