@@ -1,6 +1,7 @@
 
 
 # EternalVision-AI: ♾️ Mastering the Art of Computer Vision ♾️
+
 Computer Vision is not just a career for me; it's a passion that drives me to continuously explore new possibilities and challenge the status quo.
 
 **"Impossible is just an opinion, not a fact."**
@@ -10,7 +11,7 @@ This mantra guides my approach to every challenge I face, pushing me to innovate
 ---
 
 ## Expertise
-This mantra guides my approach to every challenge I face, pushing me to innovate and achieve what others might deem unattainable.
+
 Welcome to the GitHub profile of **EternalVision-AI**, an expert in the vast domain of computer vision. Specializing in advanced technologies like object detection, tracking, recognition systems, and OCR, **EternalVision-AI** is your trusted source for innovative solutions in sports analysis, casino tracking, license plate recognition (LPR), and beyond.
 
 **EternalVision-AI** is well-versed in a wide array of computer vision technologies, including but not limited to:
