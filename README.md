@@ -3,7 +3,7 @@
 # EternalVision-AI: ♾️ Mastering the Art of Computer Vision ♾️
 Computer Vision is not just a career for me; it's a passion that drives me to continuously explore new possibilities and challenge the status quo.
 "Impossible is just an opinion, not a fact."
-
+This mantra guides my approach to every challenge I face, pushing me to innovate and achieve what others might deem unattainable.
 ---
 
 ## Expertise
