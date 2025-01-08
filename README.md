@@ -36,16 +36,6 @@ EternalVision-AI has contributed to a diverse range of projects, both public and
 - **[Real Time Analysis System For Table Tennis](https://github.com/EternalVision-AI/Real-Time-Analysis-System-For-Table-Tennis)**  
   The implementation for the paper "TTNet: Real-time temporal and spatial video analysis of table tennis".
 
-  
-- **[Crowd-counting](https://github.com/EternalVision-AI/Crowd-counting)**  
-  Techniques for counting people in crowded environments.
-  
-- **[OCRmyPDF_Boost](https://github.com/EternalVision-AI/OCRmyPDF_Boost)**  
-  A powerful tool to enhance OCR capabilities in PDFs using Python.
-  
-- **[OCRmyPDF_Customization](https://github.com/EternalVision-AI/OCRmyPDF_Customization)**  
-  Customized tools for enhancing OCR in PDFs, licensed under GNU Affero General Public License v3.0.
-
 - **[Train_YOLOv8_pt_onnx_model](https://github.com/EternalVision-AI/Train_YOLOv8_pt_onnx_model)**  
   Training scripts and utilities for YOLOv8 models in both PyTorch and ONNX formats.
 
